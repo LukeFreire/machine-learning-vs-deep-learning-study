@@ -9,3 +9,7 @@ Luke Freire, Nathan Kibbe, Indy Park
 
 ## Purpose
 This project demonstrates understanding of key differences between machine learning and deep learning, including performance trade-offs, model complexity, and real-world applications.
+
+## Full Paper
+The complete research paper is available here:  
+[View Paper](ml_vs_dl_comparative_study.pdf)
